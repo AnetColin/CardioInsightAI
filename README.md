@@ -124,6 +124,49 @@ Permutation importance measures how model performance changes when a feature's v
 
 Feature importance does not establish causation or prove that a feature is a medical risk factor.
 
+## 📸 Dashboard Screenshots
+
+Explore the different modules of CardioInsight AI.
+
+### 1. Data Analytics
+
+Visualize the dataset and explore its key patterns.
+
+![Data Analytics Overview](screenshots/data-analytics1.png)
+
+![Data Analytics Visualization](screenshots/data-analytics2.png)
+
+![Data Analytics Additional Analysis](screenshots/data-analytics3.png)
+
+### 2. Model Evaluation
+
+Compare the classification models and examine their evaluation results.
+
+![Model Evaluation](screenshots/model-eval1.png)
+
+![Model Evaluation Results](screenshots/model-eval2.png)
+
+### 3. Feature Insights
+
+Explore the features and their estimated importance to the trained model.
+
+![Feature Insights](screenshots/future-insights.png)
+
+### 4. Prediction Lab
+
+Enter feature values and explore the model's predicted class.
+
+![Prediction Lab](screenshots/prediction-lab1.png)
+
+![Prediction Lab Results](screenshots/prediction-lab2.png)
+
+### 5. Test Known Records
+
+Compare predictions against known labels in the held-out test dataset.
+
+![Test Known Records](screenshots/test-known-records.png)
+
+> **Disclaimer:** CardioInsight AI is an educational machine-learning prototype. Its predictions are not medical diagnoses or clinically validated estimates of individual cardiovascular risk.
 ## ⚠️ Limitations
 
 - This is an educational prototype, not a clinically validated model.
